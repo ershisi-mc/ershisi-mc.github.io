@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   <icon>https://www.gravatar.com/avatar/7e7cdee0ffb5c1790a2676418b95e527</icon>
-  
+  <subtitle>唔呣</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
